@@ -1,8 +1,6 @@
-Hello world !!! 👋 
-
 <img src="https://i.pinimg.com/originals/ad/f4/13/adf4132c2660e304837035f46c3b0839.gif" width="900" height="200">
 
-
+Hello world !!! 👋 
 <h1>< I'm Daniel Galetto />
 
 
@@ -36,6 +34,10 @@ Hello world !!! 👋
 <img src = https://cdn.iconscout.com/icon/free/png-64/git-225996.png>
 
 <img src = https://cdn.iconscout.com/icon/free/png-64/github-3691248-3073768.png>
+  
+<img src = https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png>
+     
+<img src= https://cdn.iconscout.com/icon/free/png-64/linux-3628892-3030032.png>
 </div>
 
 ---
