@@ -42,8 +42,5 @@
 
 ---
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-galetto&show_icons=true&theme=radical&title_color="")
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-galetto&layout=compact)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-galetto&show_icons=true&theme=radical&title_color="")    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-galetto&layout=compact)
      
