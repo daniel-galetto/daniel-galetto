@@ -3,7 +3,6 @@
 <h2>Hello world !!! 👋 
 <h1>< I'm Daniel Galetto />
 
-
 <h1> 👨‍💻 web developer 💻</h1>
 
 - 👋 Hi, I’m @daniel-galetto
@@ -11,10 +10,11 @@
 - 🌱 I’m currently learning react and angular.
 - 📫 How to reach me daniel.galetto.arg@gmail.com
 
-
-
+---
+  
 <h2> 🚀 Coding 🚀</h2>
 
+---
 
 <div> 
 <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png">
@@ -41,6 +41,7 @@
 </div>
 
 ---
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-galetto) ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-galetto&show_icons=true&theme=radical&title_color="")   
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-galetto&show_icons=true&theme=radical&title_color="")    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-galetto&layout=compact)
      
