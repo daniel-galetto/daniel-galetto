@@ -5,11 +5,12 @@
 
 <h1> 👨‍💻 web developer 💻</h1>
 
-- 👋 Hi, I’m @daniel-galetto
-- 👀 I’m interested in learn new lenguages.
-- 🌱 I’m currently learning react and angular.
-- 📫 How to reach me daniel.galetto.arg@gmail.com
-
+Const developer = {<br>
+      &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; name: @daniel-galetto,<br>
+      &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; learning: react and angular,<br>
+      &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; interested:  learn new lenguages,<br>
+      &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; mail: daniel.galetto.arg@gmail.com,<br>
+     &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  }
 ---
   
 <h2> 🚀 Coding 🚀</h2>
