@@ -8,7 +8,7 @@
 <h1> 👨‍💻 web developer 💻</h1>
 
 Const developer = {<br>
-      &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; name: "@daniel-galetto",<br>
+      &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; name: "daniel-galetto",<br>
       &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; learning: "react and angular",<br>
       &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; interested:  "learn new lenguages",<br>
       &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; mail: "daniel.galetto.arg@gmail.com",<br>
