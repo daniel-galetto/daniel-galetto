@@ -25,6 +25,8 @@ Const developer = {<br>
 <img src="https://cdn.iconscout.com/icon/free/png-64/react-1-282599.png">
 
 <img src = https://cdn.iconscout.com/icon/free/png-64/angular-3628622-3029847.png>
+  
+<img src = https://cdn.iconscout.com/icon/free/png-64/vuejs-3-1175070.png>
 
 <img src = https://cdn.iconscout.com/icon/free/png-64/python-3521655-2945099.png>
 
