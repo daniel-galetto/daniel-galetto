@@ -9,6 +9,7 @@
 
 Const developer = {<br>
       &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; name: "daniel-galetto",<br>
+      &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; knowledge: "html, css, javaScript, python, react",<br>
       &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; learning: "Java",<br>
       &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; interested:  "learn new lenguages",<br>
       &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; mail: "daniel.galetto.arg@gmail.com",<br>
