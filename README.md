@@ -28,6 +28,8 @@ Const developer = {<br>
 
 <img src = https://cdn.iconscout.com/icon/free/png-64/css3-11-1175239.png>
 
+<img src = https://cdn.iconscout.com/icon/free/png-64/angular-3628622-3029847.png>
+
 <img src = https://cdn.iconscout.com/icon/free/png-64/bootstrap-3628663-3029888.png>
 
 <img src = https://cdn.iconscout.com/icon/free/png-64/git-225996.png>
