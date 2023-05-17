@@ -16,6 +16,11 @@ Const developer = {<br>
      &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  }
 ---
   
+  <h2>PORTFOLIO</h2>
+  https://daniel-galetto.github.io/portfolio/
+  
+---
+  
 <h2> 🚀 Coding 🚀</h2>
 
 ---
